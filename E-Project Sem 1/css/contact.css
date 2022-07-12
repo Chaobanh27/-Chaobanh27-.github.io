@@ -1,0 +1,8 @@
+.container {
+  background:linear-gradient(to right,#00C9FF,#92FE9D);
+  border-radius: 20px;
+}
+.container i:hover {
+    transform: translate(0px,-20px);
+    transition: 1s;
+}
